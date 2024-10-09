@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+18WIN | Trang game trực tuyến chính thức | casino đổi thưởng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`18Win <https://18win.onl/>`_ là trang game casino với đa dạng thể loại chơi. Đăng ký 18Win tham gia chơi ngay và nhận siêu ưu đãi khuyến mãi khủng mỗi ngày.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://18win.onl/ 
 
-   This project is under active development.
+Phone: 0320831201
 
-Contents
---------
+Email: 18win@gmail.com
 
-.. toctree::
+Địa chỉ: 2/7 ấp3, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Vietnam
 
-   usage
-   api
+#18win #18WIN #18Win #18windangnhap #dangky18win #linktruycap18win
